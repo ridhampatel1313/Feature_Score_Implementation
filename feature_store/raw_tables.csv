@@ -1,0 +1,51 @@
+id	name	description	created_at
+1	user_activity	User purchase and activity data	2025-01-01 09:00:00
+2	user_profile	User demographic information	2025-01-01 09:05:00
+3	transaction_log	Transaction level records	2025-01-01 09:10:00
+4	app_usage	Mobile app usage logs	2025-01-01 09:15:00
+5	login_events	User login events	2025-01-01 09:20:00
+6	clickstream	Clickstream data	2025-01-01 09:25:00
+7	search_history	User search history	2025-01-01 09:30:00
+8	payment_methods	Payment method usage	2025-01-01 09:35:00
+9	subscriptions	Subscription details	2025-01-01 09:40:00
+10	device_info	User device metadata	2025-01-01 09:45:00
+11	user_activity_v2	Updated user activity data	2025-01-02 09:00:00
+12	user_profile_v2	Updated profile data	2025-01-02 09:05:00
+13	transaction_log_v2	Updated transactions	2025-01-02 09:10:00
+14	app_usage_v2	Updated app usage	2025-01-02 09:15:00
+15	login_events_v2	Updated login events	2025-01-02 09:20:00
+16	clickstream_v2	Updated clickstream	2025-01-02 09:25:00
+17	search_history_v2	Updated search history	2025-01-02 09:30:00
+18	payment_methods_v2	Updated payment usage	2025-01-02 09:35:00
+19	subscriptions_v2	Updated subscriptions	2025-01-02 09:40:00
+20	device_info_v2	Updated device info	2025-01-02 09:45:00
+21	user_activity_test	Test activity data	2025-01-03 09:00:00
+22	user_profile_test	Test profile data	2025-01-03 09:05:00
+23	transaction_test	Test transactions	2025-01-03 09:10:00
+24	usage_test	Test usage logs	2025-01-03 09:15:00
+25	login_test	Test login data	2025-01-03 09:20:00
+26	activity_archive	Archived activity data	2025-01-04 09:00:00
+27	profile_archive	Archived profile data	2025-01-04 09:05:00
+28	transaction_archive	Archived transaction data	2025-01-04 09:10:00
+29	usage_archive	Archived usage data	2025-01-04 09:15:00
+30	login_archive	Archived login data	2025-01-04 09:20:00
+31	user_events	Generic user events	2025-01-05 09:00:00
+32	marketing_data	Marketing campaign data	2025-01-05 09:05:00
+33	email_events	Email interaction data	2025-01-05 09:10:00
+34	push_events	Push notification data	2025-01-05 09:15:00
+35	ad_clicks	Advertisement click data	2025-01-05 09:20:00
+36	funnel_metrics	Funnel tracking data	2025-01-06 09:00:00
+37	retention_metrics	Retention analysis data	2025-01-06 09:05:00
+38	churn_data	Churn related data	2025-01-06 09:10:00
+39	revenue_data	Revenue metrics	2025-01-06 09:15:00
+40	kpi_data	Key performance indicators	2025-01-06 09:20:00
+41	experiment_logs	Experiment logs	2025-01-07 09:00:00
+42	ab_test_results	A/B test results	2025-01-07 09:05:00
+43	feature_flags	Feature flag data	2025-01-07 09:10:00
+44	error_logs	Application error logs	2025-01-07 09:15:00
+45	performance_metrics	App performance data	2025-01-07 09:20:00
+46	geo_data	Geolocation data	2025-01-08 09:00:00
+47	language_preferences	User language preferences	2025-01-08 09:05:00
+48	timezone_data	User timezone data	2025-01-08 09:10:00
+49	support_tickets	Customer support data	2025-01-08 09:15:00
+50	feedback_data	User feedback data	2025-01-08 09:20:00
