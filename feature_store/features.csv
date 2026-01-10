@@ -1,0 +1,59 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 id,name,raw_table_id,definition,version,created_at\
+1,avg_purchase_amount,1,AVG(purchase_amount),1,2025-01-02 10:00:00\
+2,total_purchases,1,COUNT(purchase_amount),1,2025-01-02 10:05:00\
+3,max_purchase,1,MAX(purchase_amount),1,2025-01-02 10:10:00\
+4,min_purchase,1,MIN(purchase_amount),1,2025-01-02 10:15:00\
+5,avg_session_time,4,AVG(session_time),1,2025-01-02 10:20:00\
+6,total_sessions,4,COUNT(session_id),1,2025-01-02 10:25:00\
+7,login_count,5,COUNT(login_time),1,2025-01-02 10:30:00\
+8,avg_clicks,6,AVG(clicks),1,2025-01-02 10:35:00\
+9,total_clicks,6,SUM(clicks),1,2025-01-02 10:40:00\
+10,search_count,7,COUNT(search_term),1,2025-01-02 10:45:00\
+11,avg_purchase_amount,1,AVG(purchase_amount),2,2025-01-03 10:00:00\
+12,total_purchases,1,COUNT(purchase_amount),2,2025-01-03 10:05:00\
+13,max_purchase,1,MAX(purchase_amount),2,2025-01-03 10:10:00\
+14,avg_session_time,4,AVG(session_time),2,2025-01-03 10:15:00\
+15,login_count,5,COUNT(login_time),2,2025-01-03 10:20:00\
+16,avg_clicks,6,AVG(clicks),2,2025-01-03 10:25:00\
+17,total_clicks,6,SUM(clicks),2,2025-01-03 10:30:00\
+18,search_count,7,COUNT(search_term),2,2025-01-03 10:35:00\
+19,subscription_active,9,COUNT(active),1,2025-01-02 11:00:00\
+20,device_count,10,COUNT(device_id),1,2025-01-02 11:05:00\
+21,avg_revenue,39,AVG(revenue),1,2025-01-06 10:00:00\
+22,total_revenue,39,SUM(revenue),1,2025-01-06 10:05:00\
+23,churn_risk_score,38,AVG(churn_score),1,2025-01-06 10:10:00\
+24,retention_rate,37,AVG(retention),1,2025-01-06 10:15:00\
+25,error_rate,44,COUNT(error),1,2025-01-07 10:00:00\
+26,avg_response_time,45,AVG(response_time),1,2025-01-07 10:05:00\
+27,geo_count,46,COUNT(country),1,2025-01-08 10:00:00\
+28,language_count,47,COUNT(language),1,2025-01-08 10:05:00\
+29,timezone_count,48,COUNT(timezone),1,2025-01-08 10:10:00\
+30,support_ticket_count,49,COUNT(ticket_id),1,2025-01-08 10:15:00\
+31,avg_rating,50,AVG(rating),1,2025-01-08 10:20:00\
+32,feedback_count,50,COUNT(feedback),1,2025-01-08 10:25:00\
+33,avg_purchase_amount,1,AVG(purchase_amount),3,2025-01-09 10:00:00\
+34,total_sessions,4,COUNT(session_id),2,2025-01-09 10:05:00\
+35,login_count,5,COUNT(login_time),3,2025-01-09 10:10:00\
+36,avg_clicks,6,AVG(clicks),3,2025-01-09 10:15:00\
+37,total_clicks,6,SUM(clicks),3,2025-01-09 10:20:00\
+38,search_count,7,COUNT(search_term),3,2025-01-09 10:25:00\
+39,subscription_active,9,COUNT(active),2,2025-01-09 10:30:00\
+40,device_count,10,COUNT(device_id),2,2025-01-09 10:35:00\
+41,avg_revenue,39,AVG(revenue),2,2025-01-09 10:40:00\
+42,total_revenue,39,SUM(revenue),2,2025-01-09 10:45:00\
+43,churn_risk_score,38,AVG(churn_score),2,2025-01-09 10:50:00\
+44,retention_rate,37,AVG(retention),2,2025-01-09 10:55:00\
+45,error_rate,44,COUNT(error),2,2025-01-09 11:00:00\
+46,avg_response_time,45,AVG(response_time),2,2025-01-09 11:05:00\
+47,geo_count,46,COUNT(country),2,2025-01-09 11:10:00\
+48,language_count,47,COUNT(language),2,2025-01-09 11:15:00\
+49,timezone_count,48,COUNT(timezone),2,2025-01-09 11:20:00\
+50,support_ticket_count,49,COUNT(ticket_id),2,2025-01-09 11:25:00\
+}
